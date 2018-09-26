@@ -38,3 +38,4 @@ $(function () {
     $window.scroll(onScroll);
     // 手动触发一次:
     onScroll();
+})
